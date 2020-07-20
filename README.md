@@ -1,2 +1,2 @@
-This is my first Machine learning project with end to end deployment
+This is my first Machine learning project with end to end deployment at Flask Server.
 In this project we are calculating the selling price of a car according to various features like what is actual price when it is brought , how old the car is from today,Transmission type ,Fuel Type(Diesel,CNG and Petrol) and from how much kilometeres it is drived.The Dataset used for this project is from cardekho availble on Kaggle.
